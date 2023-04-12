@@ -1,0 +1,33 @@
+
+img {
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+}
+* h1,h3{
+
+    text-align: center;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    width:auto;
+}
+.element {
+    padding: 50px;
+    animation: pulse 4s infinite;
+    }
+    .box {
+        border: 5px solid rgb(244, 244, 245);
+        height: 500px;
+        width: 700px;
+        border-radius: 1%;
+      }
+      h3{
+        font-family: 'Nunito', sans-serif;
+      }
+      h1 {
+        font-family: 'Sedgwick Ave Display', cursive;
+
+          }
+          
